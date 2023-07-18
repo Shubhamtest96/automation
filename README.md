@@ -1,2 +1,2 @@
 # automation
-my work on automation code
+my work on automation and java
